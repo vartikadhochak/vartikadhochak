@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vartika+Dhochak;Java+Developer;DSA+Problem+Solver;Building+My+Tech+Journey..." />
-</p>
-
 
 <h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
@@ -10,7 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Always+Learning+New+Things" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE Student
