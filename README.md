@@ -1,45 +1,50 @@
 <h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Java+Developer;DSA+Problem+Solver;Building+My+Tech+Journey..." />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Always+Learning+New+Things" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 🌱 Currently practicing Data Structures & Algorithms
-- 💻 Love building Java projects
-- 🎯 Goal: Become a strong Software Developer
+## 🧩 $ whoami
+- 🎓 B.Tech CSE Student  
+- 🌱 Practicing Data Structures & Algorithms  
+- 💻 Java Developer  
+- 🎯 Goal: Become a Strong Software Engineer  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🚀 Languages & Tools
+## 🛠 $ tech_stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,js,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,js,github,vscode,mysql" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📊 GitHub Stats
+
+## 📊 $ system_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vartikadhochak&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadhochak&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vartikadhochak&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadhochak&theme=chartreuse-dark&hide_border=true" height="165"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🌐 Coding Profiles
+## 🌐 $ coding_profiles
 <p align="center">
 
 <a href="https://leetcode.com/u/vartika_dhochak08/">
-  <img src="https://img.shields.io/badge/LeetCode-vartika_dhochak08-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-vartika_dhochak08-black?style=for-the-badge&logo=leetcode&logoColor=00ff00" />
 </a>
 
 </p>
@@ -47,15 +52,15 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🧠 LeetCode Stats
+## 🧠 $ leetcode_stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🔥 LeetCode Daily Streak
+## 🔥 $ daily_streak
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=vartika_dhochak08&theme=dark&border=border&animated=true" />
 </p>
@@ -63,7 +68,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 📌 Featured Projects
+## 📌 $ featured_projects
 
 - 🔹 [DSA Java Practice](https://github.com/vartikadhochak/dsa-java-practice)
 - 🔹 [Student Management System](https://github.com/vartikadhochak/student-management-system-java)
@@ -72,8 +77,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 📫 Connect With Me
+## 📡 $ contact
 
 ✉ Email: dhochakvartika@gmail.com
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vartikadhochak&label=SYSTEM+VISITS&color=00ff00&style=flat-square" />
+</p>
