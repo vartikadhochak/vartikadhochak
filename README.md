@@ -66,7 +66,7 @@
 
 ## 📫 Connect With Me
 - ✉ Email: dhochakvartika@gmail.com
-- 💼 LinkedIn: ()
+- 💼 LinkedIn: vartika-dhochak-117240330
 - 🧠 LeetCode: vartika_dhochak08
 
 ---
