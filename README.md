@@ -1,6 +1,6 @@
-
 <h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Always+Learning+New+Things" />
@@ -15,7 +15,8 @@
 - 💻 Love building Java projects
 - 🎯 Goal: Become a strong Software Developer
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 🚀 Languages & Tools
 <p align="center">
@@ -31,7 +32,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadhochak&theme=tokyonight" height="150"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 🌐 Coding Profiles
 <p align="center">
@@ -42,20 +44,23 @@
 
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 🔥 LeetCode Daily Streak
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=vartika_dhochak08&theme=dark&border=border&animated=true" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 ## 📌 Featured Projects
@@ -64,7 +69,8 @@
 - 🔹 [Student Management System](https://github.com/vartikadhochak/student-management-system-java)
 - 🔹 [My Resume](https://github.com/vartikadhochak/Resume)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ## 📫 Connect With Me
 
