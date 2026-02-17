@@ -15,13 +15,12 @@
 
 ---
 
-## 🛠️ Tech Stack
-
+## 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,js,git,github,vscode,canva,sql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,git,github,vscode,mysql" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
