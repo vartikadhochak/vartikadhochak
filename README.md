@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vartika+Dhochak;Java+Developer;DSA+Problem+Solver;Building+My+Tech+Journey..." />
+</p>
+
+
 <h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
 
@@ -66,12 +71,6 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vartika-dhochak-117240330/">💼 LinkedIn:
-</a>
-
-<a href="dhochakvartika@gmail.com">✉ Email:
-</a>
+✉ Email: dhochakvartika@gmail.com
 
 ---
