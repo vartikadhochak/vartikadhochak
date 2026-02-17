@@ -1,4 +1,4 @@
-# He, I am Vartika Dhochak
+# Hey, I am Vartika Dhochak
 
 🎓 B.Tech CSE Student  
 💻 Java | Data Structures | Web Development  
