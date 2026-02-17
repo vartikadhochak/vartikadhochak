@@ -1,16 +1,37 @@
-## Hi there 👋
+# He, I am Vartika Dhochak
 
-<!--
-**vartikadhochak/vartikadhochak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Java | Data Structures | Web Development  
+🎯 Currently learning problem solving & development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+- Java
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript
+- SQL
+- Git & GitHub
+
+---
+
+## Currently Learning
+- Solving DSA problems daily in Java
+- Understanding Trees & Recursion deeply
+- Building small real-world projects
+- API handling and error management
+- Writing cleaner and structured code
+
+---
+
+##  Projects
+Projects will be added here as I build them.
+
+---
+
+##  Resume
+[View Resume](https://github.com/vartikadhochak/Resume/blob/main/Resume.pdf)
+
+---
+
+📫 Contact: (dhochakvartika@gmail.com)
