@@ -30,10 +30,6 @@
 </p>
 
 ---
----
-
----
----
 
 ## 🌐 Coding Profiles
 <p align="center">
