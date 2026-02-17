@@ -1,28 +1,14 @@
-<table>
-<tr>
-<td width="20%">
+<h1 align="center">Hey, I am Vartika Dhochak</h1>
+<h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
 
-<img src="https://raw.githubusercontent.com/vartikadhochak/vartikadhochak/main/PROFILE.jpeg" width="140" style="border-radius:50%">
-
-</td>
-<td width="80%">
-
-<h1>Hey, I am Vartika Dhochak</h1>
-<h3>B.Tech CSE Student | Java & DSA Enthusiast</h3>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&lines=Java+Developer;Building+My+Tech+Journey..." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Building+My+Tech+Journey..." />
 </p>
-
-</td>
-</tr>
-</table>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🧩 $ whoami
+## 🧩 About Me
 - 🎓 B.Tech CSE Student  
 - 🌱 Practicing Data Structures & Algorithms  
 - 💻 Java Developer  
@@ -31,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🛠 $ tech_stack
+## 🛠 $ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,html,js,github,vscode,mysql" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -40,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 📊 $ system_stats
+## 📊 System Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vartikadhochak&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
@@ -50,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🌐 $ coding_profiles
+## 🌐 Coding Profiles
 <p align="center">
 
 <a href="https://leetcode.com/u/vartika_dhochak08/">
@@ -62,7 +48,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🧠 $ leetcode_stats
+## 🧠 Leetcode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
@@ -70,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 🔥 $ daily_streak
+## 🔥 Daily Streak
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=vartika_dhochak08&theme=dark&border=border&animated=true" />
 </p>
@@ -78,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 📌 $ featured_projects
+## 📌 Projects
 
 - 🔹 [DSA Java Practice](https://github.com/vartikadhochak/dsa-java-practice)
 - 🔹 [Student Management System](https://github.com/vartikadhochak/student-management-system-java)
@@ -87,7 +73,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-## 📡 $ contact
+## 📡 Contact
 
 ✉ Email: dhochakvartika@gmail.com
 
