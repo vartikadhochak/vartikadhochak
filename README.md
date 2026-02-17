@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I am Vartika Dhochack</h1>
+<h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
 
 <p align="center">
@@ -33,21 +33,27 @@
 ---
 
 ---
+---
 
-## 🧠 LeetCode Stats
-
+## 🌐 Coding Profiles
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Nunito&ext=heatmap" />
+
+<a href="https://leetcode.com/u/vartika_dhochak08/">
+  <img src="https://img.shields.io/badge/LeetCode-vartika_dhochak08-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </p>
 
+---
+
+## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-vartika_dhochak08-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
 
 ## 🔥 LeetCode Daily Streak
-
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=vartika_dhochak08&theme=dark&border=border&animated=true" />
 </p>
