@@ -1,8 +1,10 @@
 <h1 align="center">Hey, I am Vartika Dhochak</h1>
 <h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Java+Developer;DSA+Problem+Solver;Building+My+Tech+Journey..." />
+  <img src="https://raw.githubusercontent.com/vartikadhochak/vartikadhochak/main/PROFILE.jpeg" width="180" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Building+My+Tech+Journey..." />
 </p>
 
 <p align="center">
