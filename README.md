@@ -17,7 +17,7 @@
 
 ## 🚀 Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,js,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,js,github,vscode" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
