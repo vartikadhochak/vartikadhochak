@@ -1,15 +1,23 @@
-<h1 align="center">Hey, I am Vartika Dhochak</h1>
-<h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadhochak/vartikadhochak/main/PROFILE.jpeg" width="180" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;Building+My+Tech+Journey..." />
+<table>
+<tr>
+<td width="20%">
+
+<img src="https://raw.githubusercontent.com/vartikadhochak/vartikadhochak/main/PROFILE.jpeg" width="140" style="border-radius:50%">
+
+</td>
+<td width="80%">
+
+<h1>Hey, I am Vartika Dhochak</h1>
+<h3>B.Tech CSE Student | Java & DSA Enthusiast</h3>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&lines=Java+Developer;Building+My+Tech+Journey..." />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
+</td>
+</tr>
+</table>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
