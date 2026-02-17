@@ -1,37 +1,73 @@
-# Hey, I am Vartika Dhochak
+<h1 align="center">Hey, I am Vartika Dhochack</h1>
+<h3 align="center">B.Tech CSE Student | Java & DSA Enthusiast</h3>
 
-🎓 B.Tech CSE Student  
-💻 Java | Data Structures | Web Development  
-🎯 Currently learning problem solving & development
-
----
-
-##  Skills
-- Java
-- Data Structures & Algorithms
-- HTML, CSS, JavaScript
-- SQL
-- Git & GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## Currently Learning
-- Solving DSA problems daily in Java
-- Understanding Trees & Recursion deeply
-- Building small real-world projects
-- API handling and error management
-- Writing cleaner and structured code
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 🌱 Currently practicing Data Structures & Algorithms
+- 💻 Love building Java projects
+- 🎯 Goal: Become a strong Software Developer
 
 ---
 
-##  Projects
-Projects will be added here as I build them.
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-##  Resume
-[View Resume](https://github.com/vartikadhochak/Resume/blob/main/Resume.pdf)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vartikadhochak&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadhochak&theme=tokyonight" height="150"/>
+</p>
+
+---
+---
 
 ---
 
-📫 Contact: (dhochakvartika@gmail.com)
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vartika_dhochak08?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-vartika_dhochak08-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+## 🔥 LeetCode Daily Streak
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=vartika_dhochak08&theme=dark&border=border&animated=true" />
+</p>
+
+
+
+## 📌 Featured Projects
+
+- 🔹 [DSA Java Practice](https://github.com/vartikadhochak/dsa-java-practice)
+- 🔹 [Student Management System](https://github.com/vartikadhochak/student-management-system-java)
+- 🔹 [My Resume](https://github.com/vartikadhochak/Resume)
+
+---
+
+## 📫 Connect With Me
+- ✉ Email: dhochakvartika@gmail.com
+- 💼 LinkedIn: ()
+- 🧠 LeetCode: vartika_dhochak08
+
+---
+
+⭐ From Vartika | Keep Learning 🚀
